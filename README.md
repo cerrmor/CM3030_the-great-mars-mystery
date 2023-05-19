@@ -1,6 +1,7 @@
 # the-great-mars-mystery
 A top-down mystery action video game developed for the CM3030 Games Development module finals on behalf of Goldsmiths, University of London.
 
+This group project was compleated as the cap stone project to CM3030 Games Development
 
 ## Assets Used
 - https://limezu.itch.io/moderninteriors
